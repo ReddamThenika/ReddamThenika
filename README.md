@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**ReddamThenika/ReddamThenika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey!<br>📊 Turning data into decisions – that’s where I thrive! I’m Reddam Thenika, a Master’s candidate at Alliance University, deeply immersed in the world of Data Science.🌐<br><br>From the classroom to real-world applications, I have consistently levered academic projects to deepen my understanding of data analysis, machine learning, and data visualization. My academic journey is more than theories; it’s about tangible outcomes that enhance decision-making processes. What drives me? A relentless curiosity and an unyielding drive to understand the story behind the numbers.<br><br>With every dataset I dissect and every algorithm I explore, I become more equipped to tackle complex problems. My toolbox is filled with skills in Python, R, and SQL, along with a knack for presenting insights in digestible formats that cater to both technical and non-technical stakeholders.<br><br>I believe that the best results come from teamwork. My ability to adapt and communicate effectively makes me a valued team player in any project environment. Whether it's leading a team discussion or diving into code, I am all in.
 
-Here are some ideas to get you started:
+<img src="https://camo.githubusercontent.com/f108537c0b43fa2a01cecfbf28c0ae872fbc7050001f83f99e0847628662b392/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f443536323241514866706a4c32333445436c772f6665656473686172652d736872696e6b5f323034385f313533362f302f313639333931313736373132383f653d3231343734383336343726763d6265746126743d4a325a476f6d66565f4f457a434b35374d48486f475741593863386b6d7a616c7076513635744e38623430"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thenikareddy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenika_reddy17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/reddamthenika17) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Reddam Thenika) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reddamthenika@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ReddamThenika&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ReddamThenika&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReddamThenika&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ReddamThenika&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
